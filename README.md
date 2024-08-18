@@ -1,7 +1,7 @@
 # EmpmanagementSystem
 Spring Boot project of Crud Operation on Employee Management System.
 
-Steps-
+Steps- 
 1.Created Spring Starter Project on STS Ide.
 2.Added maven Dependencies (Spring-boot starter,Spring-boot starter JDBC,Spring-boot starter dev tools,Mysql connector)
 3.Setting Mysql connection in Application.property
